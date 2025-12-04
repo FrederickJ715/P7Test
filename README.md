@@ -1,2 +1,4 @@
 # P7Test
-Found Computer Sys & Tech
+first edit of the read me.
+
+new edit on the dev branch.
